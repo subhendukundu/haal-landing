@@ -1,0 +1,32 @@
+<svg id="Component_10_4" data-name="Component 10 – 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c52530"/>
+      <stop offset="1" stop-color="#f5913a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_38" data-name="Group 38" transform="translate(-1622.713 -30.713)" opacity="0">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="32.5" cy="32.5" r="32.5" transform="translate(1622.713 30.713)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="29.5" cy="29.5" r="29.5" transform="translate(1625.713 33.713)" fill="#1a1b1c"/>
+    <g id="Icon_ionic-logo-android" data-name="Icon ionic-logo-android" transform="translate(1640.005 46.161)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 9.778)">
+        <path id="Path_8" data-name="Path 8" d="M10.125,20.167v7.819a1.134,1.134,0,0,0,.995,1.222h2.5v4.538a2.094,2.094,0,0,0,4.189,0V29.208h4.276v4.538a2.085,2.085,0,0,0,.768,1.623,1.95,1.95,0,0,0,1.283.471h.044a2.089,2.089,0,0,0,2.094-2.094V29.208h2.409A1.125,1.125,0,0,0,29.673,28V13.5H10.125Z" transform="translate(-4.54 -12.104)" fill="#efefef"/>
+        <path id="Path_9" data-name="Path 9" d="M29.094,12.375A2.089,2.089,0,0,0,27,14.469v8.378a2.094,2.094,0,0,0,4.189,0V14.469A2.089,2.089,0,0,0,29.094,12.375Z" transform="translate(-0.47 -12.375)" fill="#efefef"/>
+        <path id="Path_10" data-name="Path 10" d="M7.719,12.375a2.089,2.089,0,0,0-2.094,2.094v8.378a2.094,2.094,0,0,0,4.189,0V14.469A2.089,2.089,0,0,0,7.719,12.375Z" transform="translate(-5.625 -12.375)" fill="#efefef"/>
+      </g>
+      <path id="Path_11" data-name="Path 11" d="M24.716,6.691,26.331,4.78c.035-.044-.017-.14-.113-.218s-.209-.087-.236-.035l-1.676,1.99a11.855,11.855,0,0,0-4.416-.768,11.956,11.956,0,0,0-4.433.742L13.8,4.536c-.035-.044-.14-.035-.236.035s-.148.157-.113.218l1.6,1.885c-4.206,1.824-4.835,6.3-4.922,7.61H29.638C29.56,12.966,28.94,8.55,24.716,6.691Zm-9.111,4.346a1.161,1.161,0,1,1,1.178-1.161A1.175,1.175,0,0,1,15.606,11.037Zm8.587,0a1.161,1.161,0,1,1,1.178-1.161A1.175,1.175,0,0,1,24.193,11.037Z" transform="translate(-4.54 -4.497)" fill="#efefef"/>
+    </g>
+  </g>
+  <g id="Group_37" data-name="Group 37" transform="translate(-1619 -27)">
+    <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="28.5" cy="28.5" r="28.5" transform="translate(1623 31)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="26.5" cy="26.5" r="26.5" transform="translate(1625 33)" fill="#1a1b1c"/>
+    <g id="Icon_ionic-logo-android-2" data-name="Icon ionic-logo-android" transform="translate(1638.045 44.413)">
+      <g id="Group_1-2" data-name="Group 1" transform="translate(0 8.651)">
+        <path id="Path_8-2" data-name="Path 8" d="M10.125,19.4v6.918a1,1,0,0,0,.88,1.081h2.208v4.015a1.853,1.853,0,0,0,3.706,0V27.4H20.7v4.015a1.845,1.845,0,0,0,.679,1.436,1.725,1.725,0,0,0,1.135.417h.039a1.849,1.849,0,0,0,1.853-1.853V27.4H26.54a1,1,0,0,0,.88-1.073V13.5h-17.3Z" transform="translate(-5.184 -12.265)" fill="#efefef"/>
+        <path id="Path_9-2" data-name="Path 9" d="M28.853,12.375A1.849,1.849,0,0,0,27,14.228V21.64a1.853,1.853,0,0,0,3.706,0V14.228A1.849,1.849,0,0,0,28.853,12.375Z" transform="translate(-3.528 -12.375)" fill="#efefef"/>
+        <path id="Path_10-2" data-name="Path 10" d="M7.478,12.375a1.849,1.849,0,0,0-1.853,1.853V21.64a1.853,1.853,0,0,0,3.706,0V14.228A1.849,1.849,0,0,0,7.478,12.375Z" transform="translate(-5.625 -12.375)" fill="#efefef"/>
+      </g>
+      <path id="Path_11-2" data-name="Path 11" d="M23.035,6.438l1.428-1.691c.031-.039-.015-.124-.1-.193s-.185-.077-.208-.031l-1.482,1.76A10.489,10.489,0,0,0,18.765,5.6a10.578,10.578,0,0,0-3.922.656l-1.467-1.73c-.031-.039-.124-.031-.208.031s-.131.139-.1.193L14.48,6.423C10.758,8.037,10.2,12,10.125,13.156H27.389C27.32,11.99,26.772,8.083,23.035,6.438Zm-8.061,3.845a1.027,1.027,0,1,1,1.042-1.027A1.04,1.04,0,0,1,14.974,10.283Zm7.6,0a1.027,1.027,0,1,1,1.042-1.027A1.04,1.04,0,0,1,22.571,10.283Z" transform="translate(-5.184 -4.497)" fill="#efefef"/>
+    </g>
+  </g>
+</svg>

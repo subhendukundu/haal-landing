@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="234.264" height="223.069" viewBox="0 0 234.264 223.069">
+  <defs>
+    <filter id="Path_219" x="0" y="0" width="234.264" height="223.069" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Component_11_3" data-name="Component 11 – 3" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Path_219)">
+      <path id="Path_219-2" data-name="Path 219" d="M276.829,169.854c19.785-2.728,40.526,1.848,56.932,13.238,16.609,11.531,29.18,29.292,32.94,49.159,3.538,18.7-4.439,37.265-13.408,54.046-7.713,14.431-19.063,26.684-33.676,34.048-13.128,6.615-28.114,3.6-42.788,4.482-15.924.953-33.045,9.156-46.679.874-13.794-8.379-15.005-27.3-21.294-42.163-7.048-16.66-22.018-32.353-17.656-49.908,4.392-17.677,24.458-25.387,39.065-36.267,14.821-11.038,28.257-24.984,46.564-27.509" transform="translate(-222.53 -48.23) rotate(-17)" fill="#a51923"/>
+    </g>
+    <path id="Icon_ionic-ios-play" data-name="Icon ionic-ios-play" d="M9,8.8V84a1.936,1.936,0,0,0,2.9,1.784l59.606-37.6a2.13,2.13,0,0,0,0-3.544L11.9,7.044A1.918,1.918,0,0,0,9,8.8Z" transform="translate(81.007 55.783)" fill="#efefef"/>
+  </g>
+</svg>

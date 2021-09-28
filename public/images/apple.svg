@@ -1,0 +1,28 @@
+<svg id="Component_10_5" data-name="Component 10 – 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c52530"/>
+      <stop offset="1" stop-color="#f5913a"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_38" data-name="Group 38" transform="translate(-1622.713 -30.713)" opacity="0">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="32.5" cy="32.5" r="32.5" transform="translate(1622.713 30.713)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="29.5" cy="29.5" r="29.5" transform="translate(1625.713 33.713)" fill="#1a1b1c"/>
+    <g id="Icon_ionic-logo-android" data-name="Icon ionic-logo-android" transform="translate(1640.005 46.161)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0 9.778)">
+        <path id="Path_8" data-name="Path 8" d="M10.125,20.167v7.819a1.134,1.134,0,0,0,.995,1.222h2.5v4.538a2.094,2.094,0,0,0,4.189,0V29.208h4.276v4.538a2.085,2.085,0,0,0,.768,1.623,1.95,1.95,0,0,0,1.283.471h.044a2.089,2.089,0,0,0,2.094-2.094V29.208h2.409A1.125,1.125,0,0,0,29.673,28V13.5H10.125Z" transform="translate(-4.54 -12.104)" fill="#efefef"/>
+        <path id="Path_9" data-name="Path 9" d="M29.094,12.375A2.089,2.089,0,0,0,27,14.469v8.378a2.094,2.094,0,0,0,4.189,0V14.469A2.089,2.089,0,0,0,29.094,12.375Z" transform="translate(-0.47 -12.375)" fill="#efefef"/>
+        <path id="Path_10" data-name="Path 10" d="M7.719,12.375a2.089,2.089,0,0,0-2.094,2.094v8.378a2.094,2.094,0,0,0,4.189,0V14.469A2.089,2.089,0,0,0,7.719,12.375Z" transform="translate(-5.625 -12.375)" fill="#efefef"/>
+      </g>
+      <path id="Path_11" data-name="Path 11" d="M24.716,6.691,26.331,4.78c.035-.044-.017-.14-.113-.218s-.209-.087-.236-.035l-1.676,1.99a11.855,11.855,0,0,0-4.416-.768,11.956,11.956,0,0,0-4.433.742L13.8,4.536c-.035-.044-.14-.035-.236.035s-.148.157-.113.218l1.6,1.885c-4.206,1.824-4.835,6.3-4.922,7.61H29.638C29.56,12.966,28.94,8.55,24.716,6.691Zm-9.111,4.346a1.161,1.161,0,1,1,1.178-1.161A1.175,1.175,0,0,1,15.606,11.037Zm8.587,0a1.161,1.161,0,1,1,1.178-1.161A1.175,1.175,0,0,1,24.193,11.037Z" transform="translate(-4.54 -4.497)" fill="#efefef"/>
+    </g>
+  </g>
+  <g id="Group_37" data-name="Group 37" transform="translate(-1619 -27)">
+    <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="28.5" cy="28.5" r="28.5" transform="translate(1623 31)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="26.5" cy="26.5" r="26.5" transform="translate(1625 33)" fill="#1a1b1c"/>
+    <g id="Icon_ionic-logo-apple" data-name="Icon ionic-logo-apple" transform="translate(1639.169 44.197)">
+      <path id="Path_12" data-name="Path 12" d="M25.186,10.821c-2.607,0-3.709,1.28-5.525,1.28-1.862,0-3.282-1.273-5.54-1.273a7.527,7.527,0,0,0-6.068,3.755c-2.1,3.336-1.746,9.621,1.66,14.975,1.218,1.917,2.848,4.066,4.981,4.089h.039c1.854,0,2.405-1.249,4.958-1.265h.039c2.514,0,3.018,1.257,4.865,1.257h.039c2.134-.023,3.849-2.405,5.067-4.314a21.223,21.223,0,0,0,1.878-3.616,6.639,6.639,0,0,1-.846-11.864,7.3,7.3,0,0,0-5.548-3.026Z" transform="translate(-6.748 -3.846)" fill="#efefef"/>
+      <path id="Path_13" data-name="Path 13" d="M23.493,4.5A6.785,6.785,0,0,0,19.07,6.952a6.172,6.172,0,0,0-1.443,4.718h.124a5.76,5.76,0,0,0,4.33-2.336A6.609,6.609,0,0,0,23.493,4.5Z" transform="translate(-5.629 -4.5)" fill="#efefef"/>
+    </g>
+  </g>
+</svg>

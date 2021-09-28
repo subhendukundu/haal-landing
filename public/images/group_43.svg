@@ -1,0 +1,10 @@
+<svg id="Group_43" data-name="Group 43" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.143" y1="0.887" x2="0.848" y2="0.265" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c52530"/>
+      <stop offset="1" stop-color="#f5913a"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_117" data-name="Rectangle 117" width="27.773" height="22.935" transform="translate(2.793 4.439)" fill="url(#linear-gradient)"/>
+  <path id="Path_47" data-name="Path 47" d="M733.474,194.653a3.911,3.911,0,0,1,3.91,3.91v24.18a3.912,3.912,0,0,1-3.91,3.91H709.294a3.911,3.911,0,0,1-3.91-3.91v-24.18a3.911,3.911,0,0,1,3.91-3.91Zm-1.31,10.977a2.817,2.817,0,0,0-1.989-1.989c-1.755-.47-8.791-.47-8.791-.47s-7.036,0-8.791.47a2.818,2.818,0,0,0-1.989,1.989,31.432,31.432,0,0,0,0,10.831,2.818,2.818,0,0,0,1.989,1.989c1.755.47,8.791.47,8.791.47s7.036,0,8.791-.47a2.818,2.818,0,0,0,1.989-1.989,31.428,31.428,0,0,0,0-10.831Zm-13.03,8.791v-6.75l5.846,3.375-5.846,3.375Z" transform="translate(-705.384 -194.653)" fill="#fff" fill-rule="evenodd"/>
+</svg>
