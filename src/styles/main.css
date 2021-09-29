@@ -1,45 +1,53 @@
-@font-face{
+@font-face {
     font-family: 'SfPro';
     src: url(../font/SF-Pro-Text-Regular.otf);
     font-style: normal;
 }
+
 * {
     font-family: SfPro;
 }
-#app{
+
+#app {
     margin: auto;
     overflow-x: auto;
 }
-.team{
+
+.team {
     flex: 1;
 }
+
 .liquid {
     color: #fff;
     background: transparent;
     background-repeat: repeat-x;
     background-size: cover;
-    background-position: 0 -100%;
+    background-position: 0 -150%;
     transition: 0.5s ease;
 }
 
-.pages-bg{
+.pages-bg {
     height: 19rem;
 }
-@media(min-width: 650px){
-    .join_our_team{
+
+@media(min-width: 650px) {
+    .join_our_team {
         width: 35rem;
     }
 }
-@media (min-width: 768px) { 
-    .pages-bg{
+
+@media (min-width: 768px) {
+    .pages-bg {
         height: 40vh;
     }
 }
+
 @media (min-width: 1024px) {
-    .pages-bg{
+    .pages-bg {
         height: 80vh;
     }
- }
+}
+
 .liquid:hover {
     background-position: 50% 100%;
 }
@@ -49,7 +57,8 @@ body {
     height: 100%;
     background-color: #E5E7EB;
 }
-.whyhaal{
+
+.whyhaal {
     -webkit-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
     -moz-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
     box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
